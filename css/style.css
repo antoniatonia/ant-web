@@ -1,69 +1,69 @@
 @import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
 * {margin:5; padding:5;}
- 
+@import url('https://fonts.googleapis.com/css?family=Krub'); 
  nav {
-     margin:auto;
-     text-align: center;
-     width: 100%;
-     font-family: arial;
+     	margin:auto;
+     	text-align: center;
+     	width: 100%;
+     	font-family: arial;
  } 
  nav ul {
-     background:#008B8B;
-     padding: 0 20px;
-     list-style: none;
-     position: relative;
-     display: inline-table;
-     width: 100%;
+     	background:#008B8B;
+     	padding: 0 20px;
+     	list-style: none;
+     	position: relative;
+     	display: inline-table;
+     	width: 100%;
  }
- nav ul li{
-     float:left;
- }
-
- nav ul li:hover{
-     background:#d68d9a;
+ nav ul li {
+     	float:left;
  }
 
- nav ul li:hover a{
-     color:#000;
+ nav ul li:hover {
+     	background:#d68d9a;
  }
 
- nav ul li a{
-     display: block;
-     padding: 25px;
-     color: #fff;
-     text-decoration: none;
+ nav ul li:hover a {
+     	color:#000;
+ }
+
+ nav ul li a {
+     	display: block;
+     	padding: 25px;
+     	color: #fff;
+     	text-decoration: none;
 
 body {
-    color: #000000;
-    background: url('http://www.gutowicz.pl/wp-content/uploads/2017/04/polisolokaty.jpg' width="450px");
-    background-size: cover;
+    	color: #000000;
+    	background: url('http://www.gutowicz.pl/wp-content/uploads/2017/04/polisolokaty.jpg' width="450px");
+    	background-size: cover;
 }
 .antpulsa {
-    width:100%;
+    	width:100%;
 }
 	
 
-a   {
-    background-color: #000000;
-    color: rgb(255, 198, 208);
+a {
+	background-color: #000000;
+    	color: rgb(255, 198, 208);
 
 } 
-p   {
-    color: #000000;
+p {
+    	color: #000000;
 }
 
-a   {
-    font-size: 30px;
+a {
+    	font-size: 30px;
 }
-a   {
-font-weight: bold;
+a {
+	font-weight: bold;
 }
 h1 {
 	font-family: 'Fredericka the Great', cursive;
 	color: #000000;
 }
 p {
-font-family: 'Krub', sans-serif;
+	font-family: 'Krub', sans-serif;
 }
 /*
 div {
@@ -74,10 +74,10 @@ div {
 .bonus {
 	text-align: center;	 
 }
-@import url('https://fonts.googleapis.com/css?family=Krub');
-h4	{ 
+
+h4 { 
 	 font-family: 'Krub', sans-serif;
 }
-h5	{
+h5 {
 	font-family: 'Krub', sans-serif;
 }
