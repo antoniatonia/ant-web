@@ -15,7 +15,7 @@ section:not(.imagebg):not([class*='bg-']) + section.bg--secondary {
 }
 
 .bg--secondary {
-    	background: #fafafa;
+    	background: #8FBC8F;
 }
 
 section, footer {
