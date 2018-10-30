@@ -1,4 +1,28 @@
 @import url('https://fonts.googleapis.com/css?family=Krub'); 
+
+body {
+    font-size: 1em;
+    line-height: 1.85714286em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+    color: #666666;
+    font-weight: 400;
+
+}
+section:not(.imagebg):not([class*='bg-']) + section.bg--secondary {
+    	border-top: 1px solid #ebebeb;
+}
+
+.bg--secondary {
+    	background: #fafafa;
+}
+
+section, footer {
+	padding-top: 7.42857143em;
+	padding-bottom: 7.42857143em;
+}
+
 .bonus {
 	text-align: center;	 
 }
