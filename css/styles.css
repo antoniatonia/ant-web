@@ -37,7 +37,7 @@ body {
 	background-color: #B0E0E6;
 }
 .gambar {
-	float: left;
+	float: right;
 }
 
 
@@ -48,6 +48,6 @@ body {
 	height: 30px;
 }
 .isi {
-	float: right;
+	float: left;
 }
 
