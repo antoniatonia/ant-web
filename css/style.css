@@ -8,7 +8,7 @@
      	font-family: arial;
  } 
  nav ul {
-     	background: url('https://raw.githubusercontent.com/antoniatonia/antoniatonia.github.io/master/images/Untitled%20design.jpg')
+     	background: #A9A9A9;
      	padding: 0 20px;
      	list-style: none;
      	position: relative;
@@ -81,3 +81,5 @@ h4 {
 h5 {
 	font-family: 'Krub', sans-serif;
 }
+
+
